@@ -2,6 +2,11 @@
 <h1 align="center">Hai, saya rizaldev 404<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></ h1>
 <h3 font-size="20" align="center">Semangat yang penuh gairah
 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+  
+
 <br>
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
